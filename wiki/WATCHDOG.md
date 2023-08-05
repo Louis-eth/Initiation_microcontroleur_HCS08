@@ -1,0 +1,3 @@
+Le microcontrôleur, dispose aussi d’un composant particulier qui s’appelle un chien de garde (WATCHDOG en anglais). Le rôle de ce composant est de réinitialiser le programme principal lorsqu’une itération de la boucle principale prend un temps anormalement long. Le Watchdog est un simple compteur matériel, indépendant du processeur, qui compte jusqu’a une valeur seuil et qui, lorsqu’il l’atteint, interrompt le programme principal est le réinitialise (ce qui empêche le microcontrôleur d’être dans un état indeterminé ou bloqué).
+
+Le `__RESET_WATCHDOG()` permet de remettre le compteur du watchdog à 0. On met le `__RESET_WATCHDOG()` au début du programme pour qu’il compte le temps de la boucle for seulement et pas des autres instructions d’initialisation par exemple.
