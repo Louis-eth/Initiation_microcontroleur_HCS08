@@ -1,8 +1,9 @@
 # Initiation_microcontroleur_HCS08
-Wiki pour commencer à utiliser les microcontrôleurs HCS08.
+Wiki pour commencer à utiliser les microcontrôleurs HCS08.<br>
+Pourrait être utile pour les CITISE1 GEII 👀
 
 > [!WARNING]  
-> Utilisez l'application [Obsidian](obsidian.md) pour voir les images.
+> Utilisez l'application [Obsidian](obsidian.md) pour voir les images. <br>
 > Créez un nouveau coffre fort et ajoutez src et wiki (rapide).
 
 ## Sommaire
