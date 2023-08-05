@@ -1,5 +1,5 @@
 # Initiation_microcontroleur_HCS08
-Wiki pour commencer à utiliser les microcontrôleurs HCS08.<br>
+Wiki pour commencer à utiliser les microcontrôleurs HCS08 (MC9S08QG8 & MC9S08QG4).<br>
 Pourrait être utile pour les CITISE1 GEII 👀
 
 > [!WARNING]  
